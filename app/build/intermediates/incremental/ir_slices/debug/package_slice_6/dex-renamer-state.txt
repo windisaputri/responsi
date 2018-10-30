@@ -1,0 +1,4 @@
+#Mon Oct 29 22:30:21 ICT 2018
+base.0=Y\:\\windi\\MovieDB-master bagas\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
